@@ -1,0 +1,115 @@
+### **Plants**
+- **Liliopsida**
+  - **Order**: Asparagales
+    - **Family**: Orchidaceae
+      - **Genus**: Vanilla
+        - **Species**: *Vanilla planifolia* (Vanilla)
+  - **Order**: Poales
+    - **Family**: Poaceae
+      - **Genus**: Zea
+        - **Species**: *Zea mays* (Corn)
+  - **Order**: Poales
+    - **Family**: Poaceae
+      - **Genus**: Saccharum
+        - **Species**: *Saccharum officinarum* (Sugar Cane)
+  - **Order**: Zingiberales
+    - **Family**: Musaceae
+      - **Genus**: Musa
+        - **Species**: *Musa acuminata* (Bananas)
+  - **Order**: Poales
+    - **Family**: Poaceae
+      - **Genus**: Oryza
+        - **Species**: *Oryza sativa* (Rice)
+  - **Order**: Poales
+    - **Family**: Bromeliaceae
+      - **Genus**: Ananas
+        - **Species**: *Ananas comosus* (Pineapples)
+  - **Order**: Cucurbitales
+    - **Family**: Cucurbitaceae
+      - **Genus**: Citrullus
+        - **Species**: *Citrullus lanatus* (Watermelons)
+  - **Order**: Vitales
+    - **Family**: Vitaceae
+      - **Genus**: Vitis
+        - **Species**: *Vitis vinifera* (Grapes)
+  - **Order**: Rosales
+    - **Family**: Rosaceae
+      - **Genus**: Fragaria
+        - **Species**: *Fragaria × ananassa* (Strawberries)
+  - **Order**: Asterales
+    - **Family**: Asteraceae
+      - **Genus**: Lactuca
+        - **Species**: *Lactuca sativa* (Lettuce)
+  - **Order**: Solanales
+    - **Family**: Solanaceae
+      - **Genus**: Solanum
+        - **Species**: *Solanum tuberosum* (Potatoes)
+  - **Order**: Solanales
+    - **Family**: Solanaceae
+      - **Genus**: Solanum
+        - **Species**: *Solanum lycopersicum* (Tomatoes)
+  - **Order**: Rosales
+    - **Family**: Rosaceae
+      - **Genus**: Malus
+        - **Species**: *Malus domestica* (Apples)
+  - **Order**: Sapindales
+    - **Family**: Rutaceae
+      - **Genus**: Citrus
+        - **Species**: *Citrus sinensis* (Oranges)
+  - **Order**: Brassicales
+    - **Family**: Brassicaceae
+      - **Genus**: Brassica
+        - **Species**: *Brassica nigra* (Mustard)
+  - **Order**: Lamiales
+    - **Family**: Pedaliaceae
+      - **Genus**: Sesamum
+        - **Species**: *Sesamum indicum* (Sesame)
+  - **Order**: Lamiales
+    - **Family**: Lamiaceae
+      - **Genus**: Origanum
+        - **Species**: *Origanum vulgare* (Oregano)
+  - **Order**: Ericales
+    - **Family**: Theaceae
+      - **Genus**: Camellia
+        - **Species**: *Camellia sinensis* (Tea)
+
+- **Magnoliopsida**
+  - **Order**: Piperales
+    - **Family**: Piperaceae
+      - **Genus**: Piper
+        - **Species**: *Piper nigrum* (Pepper)
+  - **Order**: Apiales
+    - **Family**: Apiaceae
+      - **Genus**: Daucus
+        - **Species**: *Daucus carota* (Carrots)
+  - **Order**: Sapindales
+    - **Family**: Anacardiaceae
+      - **Genus**: Anacardium
+        - **Species**: *Anacardium occidentale* (Cashews)
+  - **Order**: Rosales
+    - **Family**: Rosaceae
+      - **Genus**: Prunus
+        - **Species**: *Prunus dulcis* (Almonds)
+  - **Order**: Brassicales
+    - **Family**: Brassicaceae
+      - **Genus**: Brassica
+        - **Species**: *Brassica oleracea* (Cabbage)
+  - **Order**: Fabales
+    - **Family**: Fabaceae
+      - **Genus**: Arachis
+        - **Species**: *Arachis hypogaea* (Peanuts)
+  - **Order**: Malvales
+    - **Family**: Malvaceae
+      - **Genus**: Theobroma
+        - **Species**: *Theobroma cacao* (Cocoa)
+
+### **Other Plants**
+- **Dicotyledonae**
+  - **Order**: Gentianales
+    - **Family**: Rubiaceae
+      - **Genus**: Coffea
+        - **Species**: *Coffea arabica* (Coffee)
+  - **Order**: Rosales
+    - **Family**: Rosaceae
+      - **Genus**: Malus
+        - **Species**: *Malus domestica* (Apple)

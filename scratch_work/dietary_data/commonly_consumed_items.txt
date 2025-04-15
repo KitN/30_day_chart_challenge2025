@@ -1,0 +1,41 @@
+Spices:
+	Vanilla
+	Pepper
+	Capsicums
+	Sesame
+	Cinnamon
+	Mustard
+	Oregano
+Vegetables:
+	Potatoes
+	Tomatoes
+	Onions
+	Carrots
+	Lettuce
+	Corn
+Fruits
+	Apples 
+	Oranges
+	Bananas
+	Grapes
+	strawberries
+	pineapples
+	water mountains
+sweeteners
+	corn
+	sugar cane
+	sugar beets
+staples
+	flour
+	corn
+	rice
+Drinks
+	Coffee
+	Tea
+	Cocoa
+Nuts
+	Almonds
+	Peanuts
+	Cashews
+
+	

@@ -1,0 +1,136 @@
+
+  (
+    (
+      (
+        (- *Vanilla planifolia* 
+          (Vanilla))- **Genus@ Vanilla**)- **Family@ Orchidaceae**,
+    
+      (
+        (- *Allium cepa* 
+          (Onions))- **Genus@ Allium**)- **Family@ Amaryllidaceae**)- **Order@ Asparagales**,
+  
+    (
+      (
+        (- *Zea mays* 
+          (Corn))- **Genus@ Zea**,
+      
+        (- *Triticum aestivum* 
+          (Wheat – source of flour))- **Genus@ Triticum**,
+      
+        (- *Oryza sativa* 
+          (Rice))- **Genus@ Oryza**,
+      
+        (- *Saccharum officinarum* 
+          (Sugar Cane))- **Genus@ Saccharum**)- **Family@ Poaceae**,
+    
+      (
+        (- *Ananas comosus* 
+          (Pineapples))- **Genus@ Ananas**)- **Family@ Bromeliaceae**)- **Order@ Poales**,
+  
+    (
+      (
+        (- *Musa acuminata* 
+          (Bananas))- **Genus@ Musa**)- **Family@ Musaceae**)- **Order@ Zingiberales**)- **Liliopsida** 
+  (Monocots),
+,
+
+  (
+    (
+      (
+        (- *Piper nigrum* 
+          (Pepper))- **Genus@ Piper**)- **Family@ Piperaceae**)- **Order@ Piperales**,
+  
+    (
+      (
+        (- *Solanum tuberosum* 
+          (Potatoes),
+        - *Solanum lycopersicum* 
+          (Tomatoes))- **Genus@ Solanum**,
+      
+        (- *Capsicum annuum* 
+          (Capsicums))- **Genus@ Capsicum**)- **Family@ Solanaceae**)- **Order@ Solanales**,
+  
+    (
+      (
+        (- *Cinnamomum verum* 
+          (Cinnamon))- **Genus@ Cinnamomum**)- **Family@ Lauraceae**)- **Order@ Laurales**,
+  
+    (
+      (
+        (- *Brassica nigra* 
+          (Mustard))- **Genus@ Brassica**)- **Family@ Brassicaceae**)- **Order@ Brassicales**,
+  
+    (
+      (
+        (- *Sesamum indicum* 
+          (Sesame))- **Genus@ Sesamum**)- **Family@ Pedaliaceae**,
+    
+      (
+        (- *Origanum vulgare* 
+          (Oregano))- **Genus@ Origanum**)- **Family@ Lamiaceae**)- **Order@ Lamiales**,
+  
+    (
+      (
+        (- *Daucus carota* 
+          (Carrots))- **Genus@ Daucus**)- **Family@ Apiaceae**)- **Order@ Apiales**,
+  
+    (
+      (
+        (- *Lactuca sativa* 
+          (Lettuce))- **Genus@ Lactuca**)- **Family@ Asteraceae**)- **Order@ Asterales**,
+  
+    (
+      (
+        (- *Fragaria × ananassa* 
+          (Strawberries))- **Genus@ Fragaria**,
+      
+        (- *Malus domestica* 
+          (Apples))- **Genus@ Malus**,
+      
+        (- *Prunus dulcis* 
+          (Almonds))- **Genus@ Prunus**)- **Family@ Rosaceae**)- **Order@ Rosales**,
+  
+    (
+      (
+        (- *Citrus sinensis* 
+          (Oranges))- **Genus@ Citrus**)- **Family@ Rutaceae**,
+    
+      (
+        (- *Anacardium occidentale* 
+          (Cashews))- **Genus@ Anacardium**)- **Family@ Anacardiaceae**)- **Order@ Sapindales**,
+  
+    (
+      (
+        (- *Arachis hypogaea* 
+          (Peanuts))- **Genus@ Arachis**)- **Family@ Fabaceae**)- **Order@ Fabales**,
+  
+    (
+      (
+        (- *Vitis vinifera* 
+          (Grapes))- **Genus@ Vitis**)- **Family@ Vitaceae**)- **Order@ Vitales**,
+  
+    (
+      (
+        (- *Citrullus lanatus* 
+          (Watermelons))- **Genus@ Citrullus**)- **Family@ Cucurbitaceae**)- **Order@ Cucurbitales**,
+  
+    (
+      (
+        (- *Camellia sinensis* 
+          (Tea))- **Genus@ Camellia**)- **Family@ Theaceae**)- **Order@ Ericales**,
+  
+    (
+      (
+        (- *Coffea arabica* 
+          (Coffee))- **Genus@ Coffea**)- **Family@ Rubiaceae**)- **Order@ Gentianales**,
+  
+    (
+      (
+        (- *Theobroma cacao* 
+          (Cocoa))- **Genus@ Theobroma**)- **Family@ Malvaceae**)- **Order@ Malvales**,
+  
+    (
+      (
+        (- *Beta vulgaris* 
+          (Sugar Beets))- **Genus@ Beta**)- **Family@ Amaranthaceae**)- **Order@ Caryophyllales**)- **Magnoliopsida** 
+  (Eudicots);

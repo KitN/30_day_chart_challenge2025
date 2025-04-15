@@ -1,0 +1,106 @@
+**Plants**
+
+- **Liliopsida** (Monocots)
+  - **Order: Asparagales**
+    - **Family: Orchidaceae**
+      - **Genus: Vanilla**
+        - *Vanilla planifolia* (Vanilla)
+    - **Family: Amaryllidaceae**
+      - **Genus: Allium**
+        - *Allium cepa* (Onions)
+  - **Order: Poales**
+    - **Family: Poaceae**
+      - **Genus: Zea**
+        - *Zea mays* (Corn)
+      - **Genus: Triticum**
+        - *Triticum aestivum* (Wheat – source of flour)
+      - **Genus: Oryza**
+        - *Oryza sativa* (Rice)
+      - **Genus: Saccharum**
+        - *Saccharum officinarum* (Sugar Cane)
+    - **Family: Bromeliaceae**
+      - **Genus: Ananas**
+        - *Ananas comosus* (Pineapples)
+  - **Order: Zingiberales**
+    - **Family: Musaceae**
+      - **Genus: Musa**
+        - *Musa acuminata* (Bananas)
+
+- **Magnoliopsida** (Eudicots)
+  - **Order: Piperales**
+    - **Family: Piperaceae**
+      - **Genus: Piper**
+        - *Piper nigrum* (Pepper)
+  - **Order: Solanales**
+    - **Family: Solanaceae**
+      - **Genus: Solanum**
+        - *Solanum tuberosum* (Potatoes)
+        - *Solanum lycopersicum* (Tomatoes)
+      - **Genus: Capsicum**
+        - *Capsicum annuum* (Capsicums)
+  - **Order: Laurales**
+    - **Family: Lauraceae**
+      - **Genus: Cinnamomum**
+        - *Cinnamomum verum* (Cinnamon)
+  - **Order: Brassicales**
+    - **Family: Brassicaceae**
+      - **Genus: Brassica**
+        - *Brassica nigra* (Mustard)
+  - **Order: Lamiales**
+    - **Family: Pedaliaceae**
+      - **Genus: Sesamum**
+        - *Sesamum indicum* (Sesame)
+    - **Family: Lamiaceae**
+      - **Genus: Origanum**
+        - *Origanum vulgare* (Oregano)
+  - **Order: Apiales**
+    - **Family: Apiaceae**
+      - **Genus: Daucus**
+        - *Daucus carota* (Carrots)
+  - **Order: Asterales**
+    - **Family: Asteraceae**
+      - **Genus: Lactuca**
+        - *Lactuca sativa* (Lettuce)
+  - **Order: Rosales**
+    - **Family: Rosaceae**
+      - **Genus: Fragaria**
+        - *Fragaria × ananassa* (Strawberries)
+      - **Genus: Malus**
+        - *Malus domestica* (Apples)
+      - **Genus: Prunus**
+        - *Prunus dulcis* (Almonds)
+  - **Order: Sapindales**
+    - **Family: Rutaceae**
+      - **Genus: Citrus**
+        - *Citrus sinensis* (Oranges)
+    - **Family: Anacardiaceae**
+      - **Genus: Anacardium**
+        - *Anacardium occidentale* (Cashews)
+  - **Order: Fabales**
+    - **Family: Fabaceae**
+      - **Genus: Arachis**
+        - *Arachis hypogaea* (Peanuts)
+  - **Order: Vitales**
+    - **Family: Vitaceae**
+      - **Genus: Vitis**
+        - *Vitis vinifera* (Grapes)
+  - **Order: Cucurbitales**
+    - **Family: Cucurbitaceae**
+      - **Genus: Citrullus**
+        - *Citrullus lanatus* (Watermelons)
+  - **Order: Ericales**
+    - **Family: Theaceae**
+      - **Genus: Camellia**
+        - *Camellia sinensis* (Tea)
+  - **Order: Gentianales**
+    - **Family: Rubiaceae**
+      - **Genus: Coffea**
+        - *Coffea arabica* (Coffee)
+  - **Order: Malvales**
+    - **Family: Malvaceae**
+      - **Genus: Theobroma**
+        - *Theobroma cacao* (Cocoa)
+  - **Order: Caryophyllales**
+    - **Family: Amaranthaceae**
+      - **Genus: Beta**
+        - *Beta vulgaris* (Sugar Beets)
