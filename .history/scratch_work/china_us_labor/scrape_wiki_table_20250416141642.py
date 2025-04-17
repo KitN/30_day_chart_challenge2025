@@ -41,7 +41,7 @@ for indent_level, data in rows:
     csv_rows.append(hierarchy_columns + data[1:])
 
 # Save to CSV
-with open('scratch_work/china_us_labor/USBLScounts.csv', 'w', newline='', encoding='utf-8') as f:
+with open('USBLScounts.csv', 'w', newline='', encoding='utf-8') as f:
     writer = csv.writer(f)
     for row in csv_rows:
         writer.writerow(row)
