@@ -1,0 +1,59 @@
+{
+  "chart": {
+    "title": "Share of people who own a mobile phone, by sex",
+    "subtitle": "Individuals with a mobile phone with at least one SIM card that has been used in the last three months.",
+    "citation": "International Telecommunication Union",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-individuals-who-own-a-mobile-telephone-by-sex?v=1&csvType=full&useColumnShortNames=false",
+    "selection": []
+  },
+  "columns": {
+    "5.b.1 - Proportion of individuals who own a mobile telephone, by sex (%) - IT_MOB_OWN - Female": {
+      "titleShort": "Female phone ownership (%)",
+      "titleLong": "Female phone ownership (%)",
+      "descriptionShort": "Proportion of individuals who own a mobile telephone, by sex (%)",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2013-2023",
+      "type": "Numeric",
+      "owidVariableId": 996813,
+      "shortName": "_5_b_1__it_mob_own__female",
+      "lastUpdated": "2024-08-27",
+      "nextUpdate": "2026-08-27",
+      "citationShort": "International Telecommunication Union – processed by Our World in Data",
+      "citationLong": "International Telecommunication Union – processed by Our World in Data. “Female phone ownership (%)” [dataset]. International Telecommunication Union, “Data from multiple sources” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/996813.metadata.json"
+    },
+    "5.b.1 - Proportion of individuals who own a mobile telephone, by sex (%) - IT_MOB_OWN - Male": {
+      "titleShort": "Male phone ownership (%)",
+      "titleLong": "Male phone ownership (%)",
+      "descriptionShort": "Proportion of individuals who own a mobile telephone, by sex (%)",
+      "shortUnit": "%",
+      "unit": "%",
+      "timespan": "2013-2023",
+      "type": "Numeric",
+      "owidVariableId": 996814,
+      "shortName": "_5_b_1__it_mob_own__male",
+      "lastUpdated": "2024-08-27",
+      "nextUpdate": "2026-08-27",
+      "citationShort": "International Telecommunication Union – processed by Our World in Data",
+      "citationLong": "International Telecommunication Union – processed by Our World in Data. “Male phone ownership (%)” [dataset]. International Telecommunication Union, “Data from multiple sources” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/996814.metadata.json"
+    },
+    "World regions according to OWID": {
+      "titleShort": "World regions according to OWID",
+      "titleLong": "World regions according to OWID",
+      "descriptionKey": [],
+      "unit": "",
+      "timespan": "2023-2023",
+      "type": "Continent",
+      "owidVariableId": 900801,
+      "shortName": "owid_region",
+      "lastUpdated": "2023-01-01",
+      "citationShort": "Our World in Data – processed by Our World in Data",
+      "citationLong": "Our World in Data – processed by Our World in Data. “World regions according to OWID” [dataset]. Our World in Data, “Regions” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/900801.metadata.json"
+    }
+  },
+  "dateDownloaded": "2025-04-20",
+  "activeFilters": {}
+}
